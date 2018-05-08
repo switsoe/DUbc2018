@@ -1,0 +1,17 @@
+button, div, form, label, input {
+    margin: 10px;
+}
+
+button, #add-char {
+    background-color: rgb(12, 150, 136);
+    color: white
+}
+
+body {
+    background: url("ResDogBackGround.jpg");
+
+}
+
+/* Pseudo code:
+
+Once the functionality works, I think we can use CSS to align contents?  Ran out of time */s
